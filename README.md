@@ -20,6 +20,7 @@ $ npm install -g yarn
 
 $ nest new project-name
 
+$ npm install @nestjs/typeorm typeorm pg
 
 ```
 
